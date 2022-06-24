@@ -1,7 +1,8 @@
 # A simple calculator made from scratch
 
 ***
-![main menu](https://github.com/thangk/Java/blob/master/Calculator/final_look.png)
+![main menu](https://github.com/thangk/JavaGUI-Calculator/blob/main/final_look.png)
+
 
 **Some notable features of the progrma:**
 * ability to calculate a post-tax amount
